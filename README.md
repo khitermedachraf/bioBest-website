@@ -1,12 +1,11 @@
-  ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name : [Your Project Name]. 
+# Project Name : [BioBest Scientific Club] WebSite. 
 
-> An app to manage tasks. A user can add, delete and edit a task and mark it as completed, It uses simple GUI and relies on DOM manipulation in pure JS and using local storage.
+<p align="center"><a href="./dist/">
+  <img src="./BIOBEST-LOGO.png" height="225"/>
+</a></p>
 
-> In this project, I will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
-
-[![Capstone intro](https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg)
+> Scientific Student Club | Nonprofit Organization. BioBest aims at popularizing biology ,science & technology fields among the student community.
 
 ## Built With ⚒
 
@@ -20,15 +19,6 @@
 ## :red_circle: Live Demo (If availabale)
 
 [Live Demo Link](https://github.com/khitermedachraf/My-readme-template/blob/main/README.md)
-
-## Project requirements 🕜
-
-You will need to implement the following functionalities (presented in the video above):
-- Adding a new item.
-- Removing a selected item.
-- Marking a selected item as complete.
-- Removing all items marked as complete at once.
-- Reordering a selected item (as drag-and-drop) _[as an additional feature]_.
 
 ## Getting Started 🔰
 
@@ -79,7 +69,7 @@ npm install
 ### Usage 🎯
 
 - For anyone who wants to Use **webpack to bundle JavaScript.**
-- For anyone who wants to practice html5, css3 and or vanilla JavaScript
+- For anyone who wants to practice html5, css3, SASS and vanilla JavaScript
 - For anyone who wants to create his own Web devlopment course site.
 
 ### Run tests 🧪
@@ -119,9 +109,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- Microverse program
-- My standup team
-- Coding partners
+- Club members
 
 ## 📝 License ☑
 
