@@ -10,7 +10,7 @@
 ## Built With ⚒
 
 - HTML
-- Basic CSS 
+- CSS & SASS 
 - **JavaScript** and  **ES6 syntax**
 - **Webpack**
 - Linters (Lighthouse, Webhint, Stylelint, Eslint)
