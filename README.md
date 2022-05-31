@@ -2,7 +2,7 @@
 # Project Name : [BioBest Scientific Club] WebSite. 
 
 <p align="center"><a href="./dist/">
-  <img src="./BIOBEST-LOGO.png" height="225"/>
+  <img src="./assets/BIOBEST-LOGO.png" height="225"/>
 </a></p>
 
 > Scientific Student Club | Nonprofit Organization. BioBest aims at popularizing biology ,science & technology fields among the student community.
